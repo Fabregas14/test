@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.logoNav {
+    display: flex;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+
+nav {
+    margin: 0px 10px;
+}
+}
+
+.loginBtn {
+    display: flex;
+    align-items: center;
+
+button {
+    background-color: transparent;
+    border: 1px solid lightgrey;
+    height: 35px;
+    width: 80px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+}
